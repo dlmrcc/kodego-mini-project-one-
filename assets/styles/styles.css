@@ -188,3 +188,9 @@
   color: gray;
   margin-bottom: 0%;
 }
+
+@media only screen and (max-width: 600px) {
+  .travelculture-p {
+    font-size: 0;
+  }
+}
